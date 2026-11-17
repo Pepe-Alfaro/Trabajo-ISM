@@ -1,5 +1,5 @@
 # Trabajo-ISM
--- Participantes --
+-- Participantes --   
 Elías Martínez López   
 Carlos Chaves Romero     
 Marcos Palomero García    
